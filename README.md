@@ -9,7 +9,7 @@ I'm an electrical engineering student with a passion for Android development usi
 
 #### Some of my projects:
 
-- [ProjectName1](link-to-project1): A brief description of what the project does.
+- [Youtify](https://github.com/sinan-q/Spotify2YT): Android app to convert Spotify playlists into Youtube Music playlist.
 - [ProjectName2](link-to-project2): Another project showcasing your skills and creativity.
 
 #### Let's Connect:
