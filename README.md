@@ -19,6 +19,9 @@ I'm an electrical engineering student with a passion for Android development usi
   
 Feel free to reach out if you're interested in collaborating on Android projects or just want to chat about tech and development. Happy coding! 🚀
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sinan-q&show_icons=true&locale=en&layout=compact" alt="sinan-q" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sinan-q&" alt="sinan-q" /></p>
+
 
 <!---
 sinan-q/sinan-q is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
