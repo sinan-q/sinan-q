@@ -10,7 +10,7 @@ I'm an electrical engineering student with a passion for Android development usi
 #### Some of my projects:
 
 - [Youtify](https://github.com/sinan-q/Spotify2YT): Android app to convert Spotify playlists into Youtube Music playlist.
-- [ProjectName2](link-to-project2): Another project showcasing your skills and creativity.
+- More on the way. Stay tuned.
 
 #### Let's Connect:
 
